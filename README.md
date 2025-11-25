@@ -19,4 +19,4 @@ This is a web application for performing real-time stock market technical analys
 3. Analyze charts and technical metrics.
 
 ## Deployment
-Deployed using Streamlit Community Cloud: [Your App Link]
+Deployed using Streamlit Community Cloud:
